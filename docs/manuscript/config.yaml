@@ -1,0 +1,29 @@
+paper:
+  title: "Reading Archived FluSight Hospitalization Forecasts"
+  subtitle: "A Local Check of Public Quantile Records"
+  description: "A bounded readback and schema check for one public seasonal hospitalization forecast group."
+
+authors:
+  - name: "Daniel Ari Friedman"
+    orcid: "0000-0001-6232-9096"
+
+publication:
+  github_repository: docxology/FluSight-forecast-hub
+  repository_url: https://github.com/docxology/FluSight-forecast-hub
+
+keywords:
+  - forecast archive
+  - quantiles
+  - hospitalization
+  - data provenance
+
+metadata:
+  language: en-US
+
+render:
+  formats:
+    pdf: true
+    html: true
+    docx: false
+    epub: false
+    slides: false

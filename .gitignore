@@ -7,3 +7,6 @@ attic
 *.DS_Store
 
 *.Rproj
+
+# Local documentation verification and render output
+/output/
