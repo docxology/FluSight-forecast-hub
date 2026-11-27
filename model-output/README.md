@@ -9,19 +9,19 @@ folder. Data in this directory should be added to the repository through
 a pull request so that automatic data validation checks are run.
 
 These instructions provide detail about the [data
-format](#Data-formatting) as well as [validation](#Forecast-validation) that
+format](#data-formatting) as well as [validation](#forecast-validation) that
 you can do prior to this pull request. In addition, we describe
 [metadata](https://github.com/cdcepi/FluSight-forecast-hub/blob/master/model-metadata/README.md)
 that each model should provide in the model-metadata folder. Sample submission files with the correct formatting conventions are provided in the [auxiliary-data folder](https://github.com/cdcepi/FluSight-forecast-hub/tree/main/auxiliary-data).
 
 *Table of Contents*
 
--   [What is a forecast](#What-is-a-forecast)
--   [Target data](#Target-data)
--   [Data formatting](#Data-formatting)
--   [Forecast file format](#Forecast-file-format)
--   [Forecast data validation](#Forecast-validation)
--   [Weekly ensemble build](#Weekly-ensemble-build)
+-   [What is a forecast](#what-is-a-forecast)
+-   [Target data](#target-data)
+-   [Data formatting](#data-formatting)
+-   [Forecast file format](#forecast-file-format)
+-   [Forecast data validation](#forecast-validation)
+-   [Weekly ensemble build](#weekly-ensemble-build)
 -   [Policy on late submissions](#policy-on-late-or-updated-submissions)
 
 ## What is a forecast 
@@ -60,7 +60,7 @@ The automatic checks in place for forecast files submitted to this repository va
 
 ### Subdirectory
 
-Each model that submits forecasts for this project will have a unique subdirectory within the [model-output/](model-output/) directory in this GitHub repository where forecasts will be submitted. Each subdirectory must be named
+Each model that submits forecasts for this project will have a unique subdirectory within the [model-output/](./) directory in this GitHub repository where forecasts will be submitted. Each subdirectory must be named
 
     team-model
 
