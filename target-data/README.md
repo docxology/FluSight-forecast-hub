@@ -5,9 +5,9 @@ The target-data folder contains the laboratory confirmed influenza hospital admi
 *Table of Contents*
 
 -   [Hospitalization data](#hospitalization-data)
--   [Emergency Department Visit data](#ed-visit-data)
--   [Other data sources](#data-sources)
--   [Accessing target data](#accessing-target-data)
+-   [Emergency Department Visit data](#emergency-department-visit-data)
+-   [Additional resources](#additional-resources)
+-   [Accessing target data](#accessing-target-truth-data)
 
 
 Hospitalization data

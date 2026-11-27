@@ -7,7 +7,7 @@ Each model is required to have metadata in
 e.g. [see this metadata file](./UMass-trends_ensemble.yml).
 
 These instructions provide detail about the [data
-format](#Data-format) as well as [validation](#Data-validation) that
+format](#data-format) as well as [validation](#data-validation) that
 you can do prior to a pull request with a metadata file.
 
 # Data format
